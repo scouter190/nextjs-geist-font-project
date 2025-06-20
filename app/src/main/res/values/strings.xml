@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clientes Peru SAC</string>
+    <string name="app_title">Padrón de Personas</string>
+    
+    <!-- Main Activity -->
+    <string name="search_hint">Buscar por nombre o documento…</string>
+    <string name="add_person">Agregar Persona</string>
+    <string name="showing_records">Mostrando %1$d de %2$d registros</string>
+    
+    <!-- New Person Activity -->
+    <string name="new_person">Registrar Nueva Persona</string>
+    <string name="full_name">Nombre Completo</string>
+    <string name="document_id">Documento de Identidad</string>
+    <string name="address">Dirección</string>
+    <string name="phone">Teléfono</string>
+    <string name="district">Distrito</string>
+    <string name="marital_status">Estado Civil</string>
+    <string name="gender">Género</string>
+    
+    <!-- Marital Status Options -->
+    <string name="single">Soltero(a)</string>
+    <string name="married">Casado(a)</string>
+    <string name="divorced">Divorciado(a)</string>
+    <string name="widowed">Viudo(a)</string>
+    
+    <!-- Gender Options -->
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+    
+    <!-- Buttons -->
+    <string name="save">Grabar</string>
+    <string name="cancel">Cancelar</string>
+    
+    <!-- Messages -->
+    <string name="success_title">Éxito</string>
+    <string name="success_message">Persona registrada correctamente</string>
+    <string name="error_title">Error</string>
+    <string name="error_duplicate_document">El documento de identidad ya existe</string>
+    <string name="error_missing_fields">Campos obligatorios faltantes:\n%1$s</string>
+</resources>
